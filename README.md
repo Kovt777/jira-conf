@@ -12,7 +12,7 @@
 
 * Создаст или обновит страницу в Confluence
 
-Файлы
+**Файлы**
 * *epic_status.py* - основной скрипт
 
 * *requirements.txt* - зависимости Python
