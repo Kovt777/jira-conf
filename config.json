@@ -1,0 +1,18 @@
+{
+  "jira": {
+    "url": "ссыль_на_жиру",
+    "api_user": "Рабочее_мыло",
+    "api_token": "апи_токен_из_настроек_жирка"
+  },
+  "confluence": {
+    "url": "ссыль_на_кофлю",
+    "api_token": "апи_токен_из_настроек_жирка",
+    "space_key": "наименование_пространства"
+  },
+  "deepseek": {
+    "api_url": "https://api.deepseek.com/v1",
+    "api_key": "ключ_апи_нейронки_с_опенроутера",
+    "model": "deepseek/deepseek-r1:free"
+  },
+  "epic_key": "Номер_эпика"
+}

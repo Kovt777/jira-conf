@@ -1,0 +1,12 @@
+# Query: 
+# ContextLines: 1
+
+# Основные зависимости
+requests>=2.31.0
+markdown>=3.4.4
+python-dotenv>=1.0.0
+
+# Дополнительные зависимости для разработки
+pylint>=2.17.0
+mypy>=1.3.0
+pytest>=7.3.1
